@@ -2,13 +2,11 @@
     {
         "id": 0,
         "name": "trongpham030",
-        "token": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MzY3Mzg5ODMsImV4cCI6MTc2ODI3NDk4MywibmJmIjoxNzM2NzM4OTgzLCJqdGkiOiI3Mk5OZnRTSkxxSkI4dmU2Iiwic3ViIjoyNjMxNDEwLCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.iqe9evHESTPz9PmnLtKLybSN5sRXRJtvkjKE_pxWhpk",
-        "slthread": 4
+        "token": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MzY3Mzg5ODMsImV4cCI6MTc2ODI3NDk4MywibmJmIjoxNzM2NzM4OTgzLCJqdGkiOiI3Mk5OZnRTSkxxSkI4dmU2Iiwic3ViIjoyNjMxNDEwLCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.iqe9evHESTPz9PmnLtKLybSN5sRXRJtvkjKE_pxWhpk"
     },
     {
         "id": 1,
         "name": "phamngoctrong",
-        "token": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3NDkyNzQyMDEsImV4cCI6MTc4MDgxMDIwMSwibmJmIjoxNzQ5Mjc0MjAxLCJqdGkiOiJPS0dFZWlySXllQUtJWGlJIiwic3ViIjo5OTEwNDAsInBydiI6ImI5MTI3OTk3OGYxMWFhN2JjNTY3MDQ4N2ZmZjAxZTIyODI1M2ZlNDgifQ.IorjoFC1Ko9lGVw0sa-MBAMHDcuSnFb1jgx3AM3kKN4",
-        "slthread": 2
+        "token": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3NDkyNzQyMDEsImV4cCI6MTc4MDgxMDIwMSwibmJmIjoxNzQ5Mjc0MjAxLCJqdGkiOiJPS0dFZWlySXllQUtJWGlJIiwic3ViIjo5OTEwNDAsInBydiI6ImI5MTI3OTk3OGYxMWFhN2JjNTY3MDQ4N2ZmZjAxZTIyODI1M2ZlNDgifQ.IorjoFC1Ko9lGVw0sa-MBAMHDcuSnFb1jgx3AM3kKN4"
     }
 ]
